@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+}
+
+#wrapper {
+  width: 500px;
+  margin: 0 auto;
+}
+
+img {
+  width:100px;
+  height: 100px;
+  float: right;
+  border-radius: 50px;
+  margin-right: 20px
+}
+
+section {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
